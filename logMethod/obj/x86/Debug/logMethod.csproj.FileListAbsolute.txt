@@ -1,0 +1,4 @@
+c:\users\angelika\documents\visual studio 2010\Projects\logMethod\logMethod\bin\Debug\logMethod.exe
+c:\users\angelika\documents\visual studio 2010\Projects\logMethod\logMethod\bin\Debug\logMethod.pdb
+c:\users\angelika\documents\visual studio 2010\Projects\logMethod\logMethod\obj\x86\Debug\logMethod.exe
+c:\users\angelika\documents\visual studio 2010\Projects\logMethod\logMethod\obj\x86\Debug\logMethod.pdb
